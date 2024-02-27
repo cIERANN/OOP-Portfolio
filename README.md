@@ -9,11 +9,11 @@
 ## Work Schedule
 **1 Getting Started**\
 **committed by 5th February**\
-1 Hello World        -- to do\
-2 Test               -- to do\
-3 Personal Details   -- to do\
-4 Diamonds           -- to do\
-5 Questions          -- to do
+1 Hello World        --
+2 Test               -- 
+3 Personal Details   -- 
+4 Diamonds           -- 
+5 Questions          -- 
 
 **2 Data and Expressions**\
 **committed by 19th February**\
@@ -32,11 +32,11 @@
 
 **4 Classes and Objects**\
 **committed by 4th March**\
-1 Using String Objects     -- to do\
-2 Dice                     -- to do\
-3 Formatting Output        -- to do\
-4 Pin Encryption           -- to do\
-5 Sphere Calculation       -- to do
+1 Using String Objects     -- 
+2 Dice                     -- 
+3 Formatting Output        -- 
+4 Pin Encryption           -- 
+5 Sphere Calculation       -- 
 
 **5 and 6 Writing Classes and Methods**\
 **committed by 18th March**\
